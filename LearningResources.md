@@ -5,29 +5,29 @@
 
 (OpenML.org)
 
-Kaggle.com
+[Kaggle.com](https://www.kaggle.com/datasets)
 
-PapersWithCode.com
+[PapersWithCode.com](https://paperswithcode.com/datasets)
 
-UC Irvine Machine Learning Repository
+[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 
-Amazon’s AWS datasets
+[Amazon’s AWS datasets](https://registry.opendata.aws/)
 
-TensorFlow datasets
+[TensorFlow datasets](https://www.tensorflow.org/datasets)
 
 #Meta portals (they list open data repositories):
 
-DataPortals.org
+[DataPortals.org](https://dataportals.org/)
 
-OpenDataMonitor.eu
+[OpenDataMonitor.eu](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
 
 #Other pages listing many popular open data repositories:
 
-Wikipedia’s list of machine learning datasets
+[Wikipedia’s list of machine learning datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 
-Quora.com
+[Quora.com](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
-The datasets subreddit](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ch02.html#:-:text=Popular%20open%20data,The%20datasets%20subreddit)
+[The datasets subreddit]](https://www.reddit.com/r/datasets/)
 
 ## YouTube Channels
 
