@@ -1,7 +1,7 @@
 # Useful Links
 
 
-#Popular open data repositories:
+[#Popular open data repositories:
 
 (OpenML.org)
 
@@ -27,7 +27,7 @@ Wikipedia’s list of machine learning datasets
 
 Quora.com
 
-The datasets subreddit
+The datasets subreddit](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ch02.html#:-:text=Popular%20open%20data,The%20datasets%20subreddit)
 
 ## YouTube Channels
 
